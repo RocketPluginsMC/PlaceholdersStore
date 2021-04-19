@@ -1,0 +1,9 @@
+{
+  "name": "PlaceholdersStore",
+  "version": "1.0.0",
+  "description": "An online repository for users placeholders.",
+  "main": "server.js",
+  "repository": "https://github.com/RocketPluginsMC/PlaceholdersStore",
+  "author": "Lorenzo0111",
+  "license": "MIT"
+}
